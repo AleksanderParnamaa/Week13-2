@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\ConsoleApp1\s\bin\Debug\netcoreapp3.1\s.exe
+C:\Users\opilane\source\repos\ConsoleApp1\s\bin\Debug\netcoreapp3.1\s.deps.json
+C:\Users\opilane\source\repos\ConsoleApp1\s\bin\Debug\netcoreapp3.1\s.runtimeconfig.json
+C:\Users\opilane\source\repos\ConsoleApp1\s\bin\Debug\netcoreapp3.1\s.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ConsoleApp1\s\bin\Debug\netcoreapp3.1\s.dll
+C:\Users\opilane\source\repos\ConsoleApp1\s\bin\Debug\netcoreapp3.1\s.pdb
+C:\Users\opilane\source\repos\ConsoleApp1\s\obj\Debug\netcoreapp3.1\s.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ConsoleApp1\s\obj\Debug\netcoreapp3.1\s.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ConsoleApp1\s\obj\Debug\netcoreapp3.1\s.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ConsoleApp1\s\obj\Debug\netcoreapp3.1\s.dll
+C:\Users\opilane\source\repos\ConsoleApp1\s\obj\Debug\netcoreapp3.1\s.pdb
+C:\Users\opilane\source\repos\ConsoleApp1\s\obj\Debug\netcoreapp3.1\s.genruntimeconfig.cache

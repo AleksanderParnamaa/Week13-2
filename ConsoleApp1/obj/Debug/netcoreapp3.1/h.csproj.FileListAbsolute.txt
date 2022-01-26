@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\h.exe
+C:\Users\opilane\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\h.deps.json
+C:\Users\opilane\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\h.runtimeconfig.json
+C:\Users\opilane\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\h.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\h.dll
+C:\Users\opilane\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\h.pdb
+C:\Users\opilane\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\h.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\h.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\h.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\h.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\h.dll
+C:\Users\opilane\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\h.pdb
+C:\Users\opilane\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\h.genruntimeconfig.cache
